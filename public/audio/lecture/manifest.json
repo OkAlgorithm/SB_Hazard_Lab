@@ -1,0 +1,75 @@
+{
+  "language": "ru-RU",
+  "speaker": "ru_eduard",
+  "model": "Silero v5_cis_base_nostress",
+  "model_url": "https://models.silero.ai/models/tts/ru/v5_cis_base_nostress.pt",
+  "model_sha256": "0405777e332906f0644e08a680f7cfdc2137ea864090079c1fdd30a43c1b8761",
+  "model_license": "MIT (LICENSE_CIS)",
+  "license_url": "https://github.com/snakers4/silero-models/blob/master/LICENSE_CIS",
+  "sample_rate": 24000,
+  "tracks": [
+    {
+      "chapter": "L1",
+      "file": "ru-01.mp3",
+      "slot_seconds": 22,
+      "source_text_sha256": "a1ee2d1ce796f2ed96212500cb5df3837c2445c0dd6aeb37d83ef0419b5770cc",
+      "audio_sha256": "09a54436b6113c9f187b31d7022f7fca52e4b0ad51f9ddac08b288484640c523",
+      "original_seconds": 25.387,
+      "tempo": 1.16346
+    },
+    {
+      "chapter": "L2",
+      "file": "ru-02.mp3",
+      "slot_seconds": 26,
+      "source_text_sha256": "6c966c6406c9357b7296b840886049dad49f432a86e3e2dfa9d2d7a334218909",
+      "audio_sha256": "ed09ffb81fe83982a1ffa9e29d41351dfec7bc90d6ce32f5ff1c94170a704a46",
+      "original_seconds": 29.279,
+      "tempo": 1.13398
+    },
+    {
+      "chapter": "L3",
+      "file": "ru-03.mp3",
+      "slot_seconds": 26,
+      "source_text_sha256": "a3d6ab4ee8367c636c9e4edea045350e5c964f3a1cf6136f50955982d5625765",
+      "audio_sha256": "d9af3d5546be4f1ababa95e1ac0ddc40daff2499cf77cc47a932edf065ac1f53",
+      "original_seconds": 26.18,
+      "tempo": 1.01396
+    },
+    {
+      "chapter": "L4",
+      "file": "ru-04.mp3",
+      "slot_seconds": 26,
+      "source_text_sha256": "a1d3e603bc1549500e499945f9a39f90021fe8d00f132e8b61995a409918ee02",
+      "audio_sha256": "6751a956602397b41b185a46dcb2e2450151bd5be9c66a8603cb3381f79f755d",
+      "original_seconds": 29.846,
+      "tempo": 1.15592
+    },
+    {
+      "chapter": "L5",
+      "file": "ru-05.mp3",
+      "slot_seconds": 25,
+      "source_text_sha256": "48d919ad67adc2f1012b8225f7f914159e94a843bf8cb25bd4b2c96a9e694005",
+      "audio_sha256": "747c072cdfb04171f49a20fc5a7d8d1b482f279fce31f865bb318684b32d4cc8",
+      "original_seconds": 24.26,
+      "tempo": 0.97745
+    },
+    {
+      "chapter": "L6",
+      "file": "ru-06.mp3",
+      "slot_seconds": 25,
+      "source_text_sha256": "570f715566d7c1fdae2f27777c882841eef327d0aa114a16022304779b37fa85",
+      "audio_sha256": "3d1139039a02578560f44b2d0d51ba62772bf59dd5f9f3a954218225c8415149",
+      "original_seconds": 29.027,
+      "tempo": 1.16952
+    },
+    {
+      "chapter": "L7",
+      "file": "ru-07.mp3",
+      "slot_seconds": 30,
+      "source_text_sha256": "6898be0af0bf0b983619c66538c97e5c9446cc5023f0f802b3ab7f5b8b11644b",
+      "audio_sha256": "251f164e9489115984924365dc84487d5a69917f82a70207549b338c68f43ad7",
+      "original_seconds": 34.907,
+      "tempo": 1.17059
+    }
+  ]
+}

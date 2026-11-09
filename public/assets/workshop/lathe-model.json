@@ -1,0 +1,17 @@
+{
+  "triangles": 15248,
+  "materials": [
+    "painted-metal",
+    "cast-dark",
+    "machined-steel",
+    "rubber",
+    "glass",
+    "brass",
+    "nameplate",
+    "lettering"
+  ],
+  "source": "tools/build-lathe.py",
+  "units": "metres",
+  "long_axis": "X",
+  "operator_side": "-Y"
+}
